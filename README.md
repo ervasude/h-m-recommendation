@@ -134,7 +134,7 @@ h-m-recommendation/
 ##‍ Author
 
 **Sude** - Data Science & ML Portfolio
-- GitHub: [@sude77868](https://github.com/sude77868)
+- GitHub: [@ervasude](https://github.com/ervasude)
 - Project: H&M Kaggle Competition
 
 ##  References
